@@ -1,3 +1,0 @@
-This file was uploaded as part of the GitHub hands-on lab.
-
-Upload and commit completed through the GitHub web interface.
