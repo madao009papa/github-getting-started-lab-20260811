@@ -13,7 +13,7 @@ https://github.com/madao009papa/github-getting-started-lab-20260811
 | 評価項目 | 対応する制作物・内容 |
 |---|---|
 | 1.1 プロジェクトGitHub URL | 本リポジトリ |
-| 1.2 最終PDF | レポートフォルダ内の成果物を基に別途PDF化が必要 |
+| 1.2 最終PDF | データサイエンスキャップストーン最終レポート.pdf |
 | 1.3 サマリー・方法・主要結果 | 本READMEおよび各Notebook |
 | 1.4 導入・背景・問題設定 | hands-on_API.ipynb |
 | 1.5 SpaceX APIデータ収集 | hands-on_API.ipynb |
