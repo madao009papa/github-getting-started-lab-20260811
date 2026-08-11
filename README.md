@@ -45,7 +45,7 @@ https://github.com/madao009papa/github-getting-started-lab-20260811
 
 - [x] GitHubリポジトリを作成
 - [x] READMEを編集・コミット
-- [ ] 最終レポートをPDF化
-- [ ] プレゼンテーションスライドをPDF化
-- [ ] スライドにGitHub URLを記載
+- [x] 最終レポートをPDF化
+- [x] プレゼンテーションスライドをPDF化
+- [x] スライドにGitHub URLを記載
 - [ ] Markで最終PDFをアップロードして提出
